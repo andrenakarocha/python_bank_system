@@ -15,27 +15,18 @@ extract = ""
 number_of_withdraws = 0
 NUMBER_WITHDRAW_LIMIT = 3
 
+
+def withdraw (balance, extract, number_withdraws, withdraw_limit):
+    withdraw_value = input('Enter the amount to be withdrawn')
+
+
+
+''' 
 while True: 
     option = input(menu)
 
     if option == "1":
-        deposit_value = input("Enter the amount to be deposited: ")
-        if "-" in deposit_value:
-            print("Enter a positive number!")       
-            deposit_value = input("Enter the amount to be deposited: ")
-        while not deposit_value.isnumeric():
-                if "-" in deposit_value:
-                    print("Enter a positive number!")
-                    deposit_value = input("Enter the amount to be deposited: ")
-                    continue
-                print("Enter a number!!")
-                deposit_value = input("Enter the amount to be deposited: ")
-        deposit_value = float(deposit_value)
-        if deposit_value > 0:
-            balance += deposit_value
-            extract += f"\nDeposit of R${deposit_value}"
-        else:
-            print("Operation failed! The value is invalid!")
+        
 
     elif option == "2":
         if number_of_withdraws >= 3:
@@ -72,3 +63,4 @@ while True:
 
     else:
         print("This isn't a valid option!")
+'''
