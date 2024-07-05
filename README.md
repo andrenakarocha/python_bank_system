@@ -500,4 +500,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact 📩
 
 André Nakamatsu Rocha - [GitHub Profile](https://github.com/andrenakarocha)
+<br>
 LinkedIn - [LinkedIn Profile](https://www.linkedin.com/in/andrenakarocha/)
