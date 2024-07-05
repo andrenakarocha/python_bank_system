@@ -6,8 +6,8 @@ The project was created as part of a Digital Innovation One (DIO) project.
 
 ## Table of Contents 📋
 
-- [Overview](#overview)
-- [Classes and Methods](#classes-and-methods)
+- [Overview](#overview-)
+- [Classes and Methods](#classes-and-methods-)
   - [Customer](#customer)
   - [Individual](#individual)
   - [Account](#account)
@@ -16,19 +16,19 @@ The project was created as part of a Digital Innovation One (DIO) project.
   - [Transaction](#transaction)
   - [Withdrawal](#withdrawal)
   - [Deposit](#deposit)
-- [Functions](#functions)
-  - [deposit](#deposit-function)
-  - [withdraw](#withdraw-function)
-  - [display_statement](#display_statement-function)
-  - [create_account](#create_account-function)
-  - [create_customer](#create_customer-function)
-  - [filter_customer](#filter_customer-function)
-  - [retrieve_customer_account](#retrieve_customer_account-function)
-  - [list_accounts](#list_accounts-function)
+- [Functions](#functions-)
+  - [deposit](#deposit-1)
+  - [withdraw](#withdraw)
+  - [display_statement](#display_statement)
+  - [create_account](#create_account)
+  - [create_customer](#create_customer)
+  - [filter_customer](#filter_customer)
+  - [retrieve_customer_account](#retrieve_customer_account)
+  - [list_accounts](#list_accounts)
 - [Menu](#menu)
 - [Main](#main)
-- [License](#license)
-- [Contact](#contact)
+- [License](#license-)
+- [Contact](#contact-)
 
 ## Overview 🔎
 
